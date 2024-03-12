@@ -1,0 +1,97 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.text {
+     font-weight: 400;
+     font-family: Segoe UI;
+     font-size: 18px;
+}
+
+.material-icons {
+    float: left;
+    margin-right: 6px;
+}
+
+.media-icon {
+    width: 45px;
+    height: auto;
+    padding-right: 10px;
+}
+
+.about, .experience, .projects, .education, .skills, .intersets, .awards, .language {
+    margin-top: 40px;
+    margin-left: 18%;
+}
+
+.text-two {
+    font-family: Leelawadee;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+section {
+    margin-top: 60px;
+    color: rgb(61, 64, 66);
+    min-height: 95vh;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.effect:hover {
+    background-color:  rgb(248, 251, 252);
+    border-radius: 10px;
+}
+
+.section {
+    color: rgb(113, 191, 221);
+}
+
+.company {
+    color: teal;
+}
+
+.name {
+    font-size: 48px;
+}
+
+#sidebar {
+    background-color: rgb(219, 227, 231);
+    height: 100%;
+    width: 18%; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    overflow-x: hidden; 
+    padding-top: 20px;
+    text-align: center;
+} 
+
+.profile {
+    margin-top: 80px;
+    border-radius: 90%;
+    border: 6px solid rgb(113, 191, 221);
+    width: 70%;
+    height: auto;
+}
+
+li {
+    list-style-type: none;
+}
+
+.sideBarLink {
+    text-decoration: none;
+    color: rgb(70, 166, 204);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(46, 48, 50);
+}
+
+.post {
+    color: rgb(46, 48, 50);
+}

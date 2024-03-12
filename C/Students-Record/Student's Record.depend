@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1572797573 source:c:\users\shadhin\desktop\student's record\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1573316090 source:c:\users\shadhin\desktop\new project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1575226221 source:c:\users\hrsha\onedrive\desktop\new project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1575226770 source:c:\users\hrsha\onedrive\desktop\student's record\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1575226770 source:e:\diu\subject\3rd semister\data structure\lab project\student's record\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1603536615 source:f:\diu\project\student's record\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1603536616 source:e:\programmingcode\project\student's record\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
